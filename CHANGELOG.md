@@ -1,24 +1,27 @@
 # Changelog
 
-## [5.6.0](https://www.github.com/artiebits/pdf-to-printer/compare/v5.5.0...v5.6.0) (2023-03-07)
-
+## [5.6.1](https://www.github.com/fairyhunter13/pdf-to-printer/compare/v5.6.0...v5.6.1) (2024-01-09)
 
 ### Features
 
-* list paper sizes supported by a specific printer ([#447](https://www.github.com/artiebits/pdf-to-printer/issues/447)) ([7f3d331](https://www.github.com/artiebits/pdf-to-printer/commit/7f3d331413dbc5c98c8b5b245539ba38da038d41))
+- Fix the powershell command
+
+## [5.6.0](https://www.github.com/artiebits/pdf-to-printer/compare/v5.5.0...v5.6.0) (2023-03-07)
+
+### Features
+
+- list paper sizes supported by a specific printer ([#447](https://www.github.com/artiebits/pdf-to-printer/issues/447)) ([7f3d331](https://www.github.com/artiebits/pdf-to-printer/commit/7f3d331413dbc5c98c8b5b245539ba38da038d41))
 
 ## [5.5.0](https://www.github.com/artiebits/pdf-to-printer/compare/v5.4.0...v5.5.0) (2023-01-24)
 
-
 ### Features
 
-* allow different paper size options ([#434](https://www.github.com/artiebits/pdf-to-printer/issues/434)) ([a5e3b9d](https://www.github.com/artiebits/pdf-to-printer/commit/a5e3b9d563464b4f16b8722d0d255ec507a9b180))
-* update CirrusCI config ([#437](https://www.github.com/artiebits/pdf-to-printer/issues/437)) ([d9a3a72](https://www.github.com/artiebits/pdf-to-printer/commit/d9a3a72d45022c0d50a660756272a4dffdac58bb))
-
+- allow different paper size options ([#434](https://www.github.com/artiebits/pdf-to-printer/issues/434)) ([a5e3b9d](https://www.github.com/artiebits/pdf-to-printer/commit/a5e3b9d563464b4f16b8722d0d255ec507a9b180))
+- update CirrusCI config ([#437](https://www.github.com/artiebits/pdf-to-printer/issues/437)) ([d9a3a72](https://www.github.com/artiebits/pdf-to-printer/commit/d9a3a72d45022c0d50a660756272a4dffdac58bb))
 
 ### Bug Fixes
 
-* use SumatraPDF 32 bit build ([#435](https://www.github.com/artiebits/pdf-to-printer/issues/435)) ([71b9d07](https://www.github.com/artiebits/pdf-to-printer/commit/71b9d074f1d35d298d8e7a5afe2885b8bb21867a))
+- use SumatraPDF 32 bit build ([#435](https://www.github.com/artiebits/pdf-to-printer/issues/435)) ([71b9d07](https://www.github.com/artiebits/pdf-to-printer/commit/71b9d074f1d35d298d8e7a5afe2885b8bb21867a))
 
 ## [5.4.0](https://www.github.com/artiebits/pdf-to-printer/compare/v5.3.0...v5.4.0) (2022-11-01)
 

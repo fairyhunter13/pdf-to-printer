@@ -1,7 +1,7 @@
 # Node.js printing
 
-[![Build Status](https://api.cirrus-ci.com/github/artiebits/pdf-to-printer.svg)](https://cirrus-ci.com/github/artiebits/pdf-to-printer)
-[![codecov](https://codecov.io/gh/artiebits/pdf-to-printer/branch/master/graph/badge.svg)](https://codecov.io/gh/artiebits/pdf-to-printer)
+[![Build Status](https://api.cirrus-ci.com/github/fairyhunter13/pdf-to-printer.svg)](https://cirrus-ci.com/github/fairyhunter13/pdf-to-printer)
+[![codecov](https://codecov.io/gh/fairyhunter13/pdf-to-printer/branch/master/graph/badge.svg)](https://codecov.io/gh/fairyhunter13/pdf-to-printer)
 ![npm](https://img.shields.io/npm/dw/pdf-to-printer)
 
 A utility for printing PDFs and images from Node.js and Electron.
@@ -13,7 +13,7 @@ A utility for printing PDFs and images from Node.js and Electron.
 
 If you rely on this package, please consider supporting it. Maintaining an open source project takes time and your support would be greatly appreciated.
 
-<a href="https://www.buymeacoffee.com/artiebits" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 207px !important;" ></a>
+<a href="https://www.buymeacoffee.com/fairyhunter13" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 207px !important;" ></a>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
