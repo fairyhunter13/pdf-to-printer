@@ -8,6 +8,7 @@ async function getDefaultPrinter(): Promise<Printer | null> {
     throwIfUnsupportedOperatingSystem();
 
     const { stdout } = await execFileAsync("Powershell.exe", [
+      "-WindowStyle Hidden",
       "-Command",
       `Get-CimInstance Win32_Printer -Filter Default=true | Format-List -Property DeviceID,Name,PrinterPaperNames | Out-String -Width 8000`,
     ]);
