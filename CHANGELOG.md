@@ -1,5 +1,11 @@
 # Changelog
 
+## [5.6.3](https://www.github.com/fairyhunter13/pdf-to-printer/compare/v5.6.2...v5.6.3) (2024-01-10)
+
+### Features
+
+- Fix the bug of WindowStyle by removing the WindowStyle flag
+
 ## [5.6.2](https://www.github.com/fairyhunter13/pdf-to-printer/compare/v5.6.1...v5.6.2) (2024-01-10)
 
 ### Features
