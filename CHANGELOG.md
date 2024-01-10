@@ -1,5 +1,11 @@
 # Changelog
 
+## [5.6.2](https://www.github.com/fairyhunter13/pdf-to-printer/compare/v5.6.1...v5.6.2) (2024-01-10)
+
+### Features
+
+- Hide the powershell window
+
 ## [5.6.1](https://www.github.com/fairyhunter13/pdf-to-printer/compare/v5.6.0...v5.6.1) (2024-01-09)
 
 ### Features
